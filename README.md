@@ -15,5 +15,6 @@ The project consists of three main components:
 - **CSS:** Styles the page to make it visually appealing and ensures the message stays fixed at the top.
 - **JavaScript:** Handles the countdown logic, updating the countdown every second.
 
-#### Website Demo
-![new-year-2025](https://github.com/user-attachments/assets/4a08283b-09eb-4b75-bd34-07b4c4d339f9)
+#### Website Demo!
+[new-year-2025](https://github.com/user-attachments/assets/b1da286a-0522-400e-90fd-a22917948f65)
+
