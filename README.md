@@ -16,5 +16,6 @@ The project consists of three main components:
 - **JavaScript:** Handles the countdown logic, updating the countdown every second.
 
 #### Website Demo!
-[new-year-2025](https://github.com/user-attachments/assets/b1da286a-0522-400e-90fd-a22917948f65)
+![new-year-2025](https://github.com/user-attachments/assets/b1da286a-0522-400e-90fd-a22917948f65)
+
 
